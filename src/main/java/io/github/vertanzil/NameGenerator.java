@@ -12,7 +12,7 @@ import java.util.logging.Logger;
 
 public class NameGenerator {
 
-    private static final Logger log = Logger.getLogger(NameCombiner.class.getName());
+    private static final Logger log = Logger.getLogger(NameGenerator.class.getName());
     private static final Random random = new Random();
 
     public static void main(String[] args) {
