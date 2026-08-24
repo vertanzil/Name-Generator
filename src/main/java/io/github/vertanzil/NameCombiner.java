@@ -10,7 +10,7 @@ import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.logging.Logger;
 
-public class NameCombiner {
+public class NameGenerator {
 
     private static final Logger log = Logger.getLogger(NameCombiner.class.getName());
     private static final Random random = new Random();
